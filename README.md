@@ -6,3 +6,7 @@
 - Updated keymaps
 
 - Imported plugins
+
+## Install:
+
+`git clone https://github.com/42plat0/NvChad-configs-st ~/.config/nvim`
